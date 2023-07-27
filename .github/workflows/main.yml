@@ -4,31 +4,20 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "0 */1 * * *"
+  push:
+    branches: [master]
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: alex-papaioannou/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-name: WakaTime status update
-
-on:
-  schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "1 0 * * *"
-on:
-  push:
-    branches: [master]
-  schedule:
-    - cron: "1 0 * * *"
-
-jobs:
-  update-readme:
+  update-readme2:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
