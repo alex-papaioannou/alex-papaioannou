@@ -13,11 +13,11 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: alex-papaioannou/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: <alex-papaioannou/alex-papaioannou>
+          REPOSITORY: alex-papaioannou/alex-papaioanno
   update-readme2:
     name: Update this repo's README
     runs-on: ubuntu-latest
