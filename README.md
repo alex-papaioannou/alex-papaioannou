@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-
+<img
+  src="https://github.com/alex-papaioannou/alex-papaioannou/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 <!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jakenherman.jakenherman)
