@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
-<img
-  src="https://github.com/alex-papaioannou/alex-papaioannou/blob/main/images/stat.svg"
-  alt="Alex's WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### ⚡ Toolbelt
 <p float="left">
