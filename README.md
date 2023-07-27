@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jakenherman.jakenherman)
 
