@@ -20,17 +20,6 @@ src="https://github.com/alex-papaioannou/alex-papaioannou/blob/main/images/stat.
   alt="Avinal WakaTime Activity"
 <!--END_SECTION:waka-->
 
-![](https://visitor-badge.glitch.me/badge?page_id=jakenherman.jakenherman)
-
-### Code
-
-```txt
-Rust         3 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-Other        3 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.24 %
-HTML         2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-Makefile     2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
-Docker       1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-```
 ### ⚡ Toolbelt
 <p float="left">
   <img height="20" alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
