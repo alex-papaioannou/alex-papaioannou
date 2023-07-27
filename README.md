@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-src="https://github.com/alex-papaioannou/alex-papaioannou/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+<img
+  src="https://github.com/alex-papaioannou/alex-papaioannou/blob/main/images/stat.svg"
+  alt="Alex's WakaTime Activity"
+/>
 <!--END_SECTION:waka-->
 
 ### ⚡ Toolbelt
