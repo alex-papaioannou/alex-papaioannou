@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 > 📦 17.2 kB Used in GitHub's Storage 
  > 
+> 🏆 246 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 77 Public Repositories 
@@ -93,7 +95,7 @@ PHP                      1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2023 18:33:26 UTC
+ Last Updated on 12/11/2023 18:33:34 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡ Toolbelt
