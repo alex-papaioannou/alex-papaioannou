@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2023%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-148.4%20thousand%20lines%20of%20code-blue)
@@ -25,8 +23,6 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 17.2 kB Used in GitHub's Storage 
- > 
-> 🏆 246 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -61,19 +57,23 @@ Sunday                   245 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   18 hrs 12 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   94.70 % 
-JSON                     1 hr 1 min          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.30 % 
+Python                   20 hrs 4 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   76.58 % 
+Java                     4 hrs 35 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.52 % 
+JSON                     1 hr 10 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.49 % 
+Text                     22 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.42 % 
 
 🔥 Editors: 
-PyCharm                  10 hrs 12 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   53.07 % 
-Sublime Text             9 hrs 1 min         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.93 % 
+PyCharm                  12 hrs 14 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.66 % 
+Sublime Text             9 hrs 1 min         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.40 % 
+IntelliJ                 4 hrs 57 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.93 % 
 
 🐱‍💻 Projects: 
-CS 6250 Computer Networks10 hrs 12 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   53.07 % 
-alexpapaioannou          9 hrs 1 min         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.93 % 
+CS 6250 Computer Networks12 hrs 14 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.66 % 
+alexpapaioannou          9 hrs 1 min         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.40 % 
+hw10                     4 hrs 57 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.93 % 
 
 💻 Operating System: 
-Mac                      19 hrs 13 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Mac                      26 hrs 13 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -92,7 +92,7 @@ PHP                      1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:34:27 UTC
+ Last Updated on 06/12/2023 18:35:29 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡ Toolbelt
