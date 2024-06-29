@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 24.9 kB Used in GitHub's Storage 
+> 📦 24.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -88,7 +88,7 @@ CSS                      1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2024 18:35:57 UTC
+ Last Updated on 29/06/2024 18:35:17 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡ Toolbelt
