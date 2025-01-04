@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 24.9 kB Used in GitHub's Storage 
+> 📦 25.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -59,17 +59,16 @@ Sunday                   245 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   98.16 % 
-GitIgnore file           0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gs-rest-service          8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -89,7 +88,7 @@ CSS                      1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2025 18:38:52 UTC
+ Last Updated on 04/01/2025 18:38:01 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡ Toolbelt
