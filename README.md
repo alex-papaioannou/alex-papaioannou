@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,7 +93,7 @@ HTML                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:36:37 UTC
+ Last Updated on 02/02/2025 18:38:01 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡ Toolbelt
