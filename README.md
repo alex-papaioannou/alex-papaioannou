@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 26.6 kB Used in GitHub's Storage 
+> 📦 68.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -88,7 +88,7 @@ Python                   2 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2025 18:41:00 UTC
+ Last Updated on 27/03/2025 18:40:35 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡ Toolbelt
