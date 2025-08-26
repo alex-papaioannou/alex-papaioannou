@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  [![Linkedin: Alex Papaioannou](https://img.shields.io/badge/-lepeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anmol-p-singh/](https://www.linkedin.com/in/le-peng-98668b204/))](https://www.linkedin.com/in/le-peng-98668b204/)
 -->
 
 <!--START_SECTION:waka-->
@@ -24,13 +25,13 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 459.8 kB Used in GitHub's Storage
  > 
 > 💼 Opted to Hire
  > 
 > 📜 78 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 95 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
