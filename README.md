@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**alex-papaioannou/alex-papaioannou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,8 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  [![Linkedin: Alex Papaioannou](https://img.shields.io/badge/-lepeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anmol-p-singh/](https://www.linkedin.com/in/le-peng-98668b204/))](https://www.linkedin.com/in/le-peng-98668b204/)
--->
+  (https://www.linkedin.com/in/apapaio/)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2037%20mins-blue)
