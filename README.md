@@ -11,7 +11,7 @@
   (https://www.linkedin.com/in/apapaio/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
@@ -93,7 +93,7 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 22:33:32 UTC
+ Last Updated on 28/08/2025 22:43:51 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡ Toolbelt
