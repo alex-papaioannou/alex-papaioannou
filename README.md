@@ -9,6 +9,8 @@
 - 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: I’ve built everything from **quant trading engines and distributed systems** to **Pokémon battle simulators**, and I love finding connections between **serious research** and **playful side projects**.  
 
+<img src="https://img.shields.io/liberapay/goal/alexpapaioannou.svg?logo=liberapay">
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2053%20mins-blue)
 
