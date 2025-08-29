@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **open-source projects in algorithmic trading, applied mathematics, scientific computing, and full-stack SaaS applications**.  
 - 🤔 I’m looking for help with **refining large-scale stochastic models, building efficient multi-threaded systems in Rust/C, and advanced ML for financial applications**.  
 - 💬 Ask me about **quant research, ETF trading strategies, distributed systems, LaTeX workflows, or bridging pure math with real-world systems**.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/apapaio/) or **alex.papaioannou [at] gmail.com**  
+- 📫 How to reach me: [![Discord](https://img.shields.io/badge/Discord-@QuasiMonte-5865F2?logo=discord&logoColor=white)](https://discord.com/users/quasi_monte) or [LinkedIn](https://www.linkedin.com/in/apapaio/) or **alex.papaioannou [at] gmail.com**  
 - 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: I’ve built everything from **quant trading engines and distributed systems** to **Pokémon battle simulators**, and I love finding connections between **serious research** and **playful side projects**.  
 
