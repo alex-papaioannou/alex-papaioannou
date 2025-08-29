@@ -1,18 +1,41 @@
-### Hi there 👋
+### Hi there 👋 🚀 🧑‍💻 🤖 <img src="assets/bami.png" alt="Cat Emoji" width="24" height="34" style="vertical-align: text-bottom; border-radius: 50%;" /> 
 
 - 🔭 I’m currently working on **quantitative finance systems, distributed systems, and research in stochastic control, numerical methods, and adsorption modeling**.  
 - 🌱 I’m currently learning **advanced software architecture (Spring Boot, microservices, UML design), functional analysis, and cutting-edge DevOps tooling (Kubernetes, Terraform, cloud infrastructure)**.  
 - 👯 I’m looking to collaborate on **open-source projects in algorithmic trading, applied mathematics, scientific computing, and full-stack SaaS applications**.  
 - 🤔 I’m looking for help with **refining large-scale stochastic models, building efficient multi-threaded systems in Rust/C, and advanced ML for financial applications**.  
 - 💬 Ask me about **quant research, ETF trading strategies, distributed systems, LaTeX workflows, or bridging pure math with real-world systems**.  
-- 📫 How to reach me: [![Discord](https://img.shields.io/badge/Discord-@QuasiMonte-5865F2?logo=discord&logoColor=white)](https://discord.com/users/quasi_monte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Papaioannou-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apapaio/)
-- 😄 Pronouns: **he/him**  
+- 📫 How to reach me: [![Discord](https://img.shields.io/badge/Discord-@QuasiMonte-5865F2?logo=discord&logoColor=white)](https://discord.com/users/quasi_monte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Papaioannou-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apapaio/) [![FaceTime](https://img.shields.io/badge/FaceTime-Join-00C853?logo=apple&logoColor=white&style=flat)](https://facetime.apple.com/join#v=1&p=4grXTV3PEfCori6h2oN83w&k=CB6xz_PbCjoKe6yIOj_E1uULj45S_NYT0jLPSsmmNbo)
+- 👨/🧑‍💻/🌈 ally ![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim%2Fhis-0A66C2?style=flat&logoColor=white)
 - ⚡ Fun fact: I’ve built everything from **quant trading engines and distributed systems** to **Pokémon battle simulators**, and I love finding connections between **serious research** and **playful side projects**.  
+
+![Stack](https://img.shields.io/badge/Stack-000?logo=github&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+
+![Math Stack](https://img.shields.io/badge/Math%20Stack-000?logo=latex&logoColor=white&style=flat)
+![Measure Theory](https://img.shields.io/badge/Measure%20Theory-4B0082?style=flat)
+![Functional Analysis](https://img.shields.io/badge/Functional%20Analysis-228B22?style=flat)
+![Probability](https://img.shields.io/badge/Probability-1E90FF?style=flat)
+![Stochastic Processes](https://img.shields.io/badge/Stochastic%20Processes-8B0000?style=flat)
+![Stochastic Calculus](https://img.shields.io/badge/Stochastic%20Calculus-800080?style=flat)
+![Malliavin Calculus](https://img.shields.io/badge/Malliavin%20Calculus-9932CC?style=flat)
+![Banach Spaces](https://img.shields.io/badge/Banach%20Spaces-DAA520?style=flat)
+![PDEs](https://img.shields.io/badge/PDEs-FF8C00?style=flat)
+![Optimization](https://img.shields.io/badge/Optimization-2E8B57?style=flat)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-FF1493?style=flat)
+![CVaR](https://img.shields.io/badge/CVaR-4682B4?style=flat)
+
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-papaioannou&layout=compact&langs_count=6&hide=css,scss,html,jupyter%20notebook,php,ruby,makefile,dockerfile,hack) -->
+
 
 <img src="https://img.shields.io/liberapay/goal/alexpapaioannou.svg?logo=liberapay">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-140-blue)
 
@@ -31,21 +54,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                298 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.24 % 
-🌆 Daytime                1623 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.45 % 
-🌃 Evening                1687 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.01 % 
-🌙 Night                  506 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.30 % 
+🌞 Morning                298 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.25 % 
+🌆 Daytime                1620 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.41 % 
+🌃 Evening                1687 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.04 % 
+🌙 Night                  506 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.31 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   760 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.47 % 
-Tuesday                  1056 commits        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.67 % 
-Wednesday                741 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.01 % 
+Monday                   760 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.49 % 
+Tuesday                  1056 commits        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.69 % 
+Wednesday                741 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.02 % 
 Thursday                 209 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.08 % 
-Friday                   208 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.06 % 
-Saturday                 450 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.94 % 
-Sunday                   690 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.77 % 
+Friday                   205 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.99 % 
+Saturday                 450 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.95 % 
+Sunday                   690 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.78 % 
 ```
 
 
@@ -94,8 +117,53 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 22:07:20 UTC
+ Last Updated on 29/08/2025 20:07:32 UTC
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <a href="https://github-readme-stats.vercel.app/api?username=alex-papaioannou&show_icons=true&theme=transparent">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=alex-papaioannou&show_icons=true&theme=transparent"
+      alt="Alex's GitHub stats"
+      width="360" />
+  </a>
+
+  <!-- Profile Summary Card -->
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-papaioannou&theme=github">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-papaioannou&theme=github"
+      alt="Profile summary"
+      width="530" />
+  </a>
+
+  <!-- Tech Radar (scaled down) -->
+  <a href="assets/tech_radar.png">
+    <img
+      src="assets/tech_radar.png"
+      alt="Core Stack Profile"
+      width="360" />
+  </a>
+</p>
+
+<!-- Bottom row: Languages -->
+<p align="center">
+  <!-- Most Commit Language -->
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex-papaioannou&theme=default">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex-papaioannou&theme=default"
+      alt="Most Commit Language"
+      width="360" />
+  </a>
+
+  <!-- Repos per Language -->
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alex-papaioannou&theme=default">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alex-papaioannou&theme=default"
+      alt="Repos per Language"
+      width="360" />
+  </a>
+</p>
 
 ### ⚡ Toolbelt
 <p float="left">
