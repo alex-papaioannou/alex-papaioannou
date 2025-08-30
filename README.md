@@ -35,8 +35,6 @@
 <img src="https://img.shields.io/liberapay/goal/alexpapaioannou.svg?logo=liberapay">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2010%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-191.2%20million%20lines%20of%20code-blue)
@@ -117,7 +115,7 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 03:16:13 UTC
+ Last Updated on 30/08/2025 04:07:00 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
