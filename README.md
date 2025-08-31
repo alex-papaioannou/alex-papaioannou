@@ -32,8 +32,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-papaioannou&layout=compact&langs_count=6&hide=css,scss,html,jupyter%20notebook,php,ruby,makefile,dockerfile,hack) -->
 
 
-<img src="https://img.shields.io/liberapay/goal/alexpapaioannou.svg?logo=liberapay">
-
+<img src="https://img.shields.io/liberapay/goal/alexpapaioannou.svg?logo=liberapay"> <a href='https://ko-fi.com/U6U31KF346' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2029%20mins-blue)
 
