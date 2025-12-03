@@ -42,7 +42,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 235.3 kB Used in GitHub's Storage 
+> 📦 235.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -108,7 +108,7 @@ TeX                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2025 03:31:13 UTC
+ Last Updated on 03/12/2025 04:12:39 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
