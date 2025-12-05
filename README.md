@@ -33,6 +33,8 @@
 
 
 <img src="https://img.shields.io/liberapay/goal/alexpapaioannou.svg?logo=liberapay"> <a href='https://ko-fi.com/U6U31KF346' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%205%20mins-blue)
 
