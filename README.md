@@ -46,6 +46,8 @@
 
 > 📦 235.3 kB Used in GitHub's Storage 
  > 
+> 🏆 49 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 78 Public Repositories 
@@ -108,7 +110,7 @@ TeX                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 16:09:15 UTC
+ Last Updated on 11/12/2025 17:12:52 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
