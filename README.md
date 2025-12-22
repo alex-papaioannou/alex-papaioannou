@@ -44,7 +44,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 235.7 kB Used in GitHub's Storage 
+> 📦 235.6 kB Used in GitHub's Storage 
  > 
 > 🏆 49 Contributions in the Year 2025
  > 
@@ -110,7 +110,7 @@ TeX                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/alex-papaioannou/alex-papaioannou/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2025 19:08:29 UTC
+ Last Updated on 22/12/2025 20:08:27 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
